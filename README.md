@@ -1,16 +1,16 @@
 # Library-management-system
 A simple python OOP project that simulates library system
 
-## Features
-  Add books
-  Borrow books
-  return books
-  check book availablility
+## Features<br>
+  Add books <br>
+  Borrow books<br>
+  return books <br>
+  check book availablility<br>
 
-## Concepts used
-  Classes & objects
-  Constructors
-  Instance variable
-  Methods
+## Concepts used<br>
+  Classes & objects<br>
+  Constructors<br>
+  Instance variable<br>
+  Methods<br>
   Boolean flags
   
